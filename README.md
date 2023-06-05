@@ -52,7 +52,7 @@ Heart Disease: https://www.onhealth.com/content/1/heart_disease_coronary_artery
 ![image](https://github.com/TarynNicole/Heart-Disease-Prediction-using-PYMC3-and-Django/assets/70257895/e2d0040a-5ee1-4bbb-8a42-497dbd98560d)
 ![image](https://github.com/TarynNicole/Heart-Disease-Prediction-using-PYMC3-and-Django/assets/70257895/ffc46ec4-391a-42ae-895e-c7b687fe2988)
 
-#PYMC3 Model:
+# PYMC3 Model:
 
 ![image](https://github.com/TarynNicole/Heart-Disease-Prediction-using-PYMC3-and-Django/assets/70257895/9dc53955-3b1c-4484-a68a-c9ce690f2479)
 
